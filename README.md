@@ -1,4 +1,4 @@
-## Hello Word! 🖖
+## Hello World! 
 
 
 - 🔭 Hoje trabalho com front-end
