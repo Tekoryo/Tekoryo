@@ -13,6 +13,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="Thiago-code-Erro" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
+  <iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
 </div>
 
 ##
