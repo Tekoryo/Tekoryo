@@ -12,7 +12,7 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Thiago-code-Erro" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+  <img align="right" alt="Thiago-code-Erro" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47amg531g3ankoavc82xj7y39v0vg4ifduckszp3e1&rid=giphy.gif&ct=g">
 </div>
 
 ##
